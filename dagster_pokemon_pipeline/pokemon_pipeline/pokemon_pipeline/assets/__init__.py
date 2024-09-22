@@ -1,5 +1,3 @@
-# pokemon_pipeline/assets/__init__.py
-
 import dlt
 from dlt.sources.rest_api import rest_api_source
 import pandas as pd
